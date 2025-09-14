@@ -1,0 +1,19 @@
+{
+   "contacts":[
+        {
+            "id":"1",
+            "name":"Ahuja",
+            "email":"ahuja@gmail.com",
+            "user_id":"1"
+        }
+    ],
+
+    "users":[
+        {
+            "id":"1",
+            "name":"Ravi Kant",
+            "email":"ravikant@gmail.com",
+            "password":"Ravi@123"
+        }
+    ]
+}
