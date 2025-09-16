@@ -18,9 +18,8 @@ const LoginForm = () => {
                     }
                 </div>
             </div>
-            <button type='submit' className='bg-white text-black py-2 rounded-md font-medium cursor-pointer mt-2 tracking-wider'>Login</button>
+            <button type='submit' className='bg-white text-black py-2 rounded-md font-medium cursor-pointer mt-2 tracking-wider hover:opacity-30'>Login</button>
         </form>
     )
 }
-
 export default LoginForm;
