@@ -8,7 +8,7 @@ const LoginForm = () => {
     return (
         <form action={loginAction} className='flex flex-col gap-8'>
             <div className='space-y-5'>
-                <input type='email' name='email' placeholder='username' required className='px-2 py-2 border-b border-cyan-600/30 text-xl w-full outline-none tracking-wider' />
+                <input type='email' name='email' placeholder='email id' required className='px-2 py-2 border-b border-cyan-600/30 text-xl w-full outline-none tracking-wider' />
                 <div className='flex justify-between items-center border-b border-cyan-600/30'>
                     <input type={`${visible ? 'text' : 'password'}`} name='password' placeholder='password' className='px-2 py-2 text-xl w-full outline-none tracking-wider' />
                     {visible ?

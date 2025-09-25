@@ -1,19 +1,24 @@
 {
-   "contacts":[
-        {
-            "id":"1",
-            "name":"Ahuja",
-            "email":"ahuja@gmail.com",
-            "user_id":"1"
-        }
-    ],
-
-    "users":[
-        {
-            "id":"1",
-            "name":"Ravi Kant",
-            "email":"ravikant@gmail.com",
-            "password":"Ravi@123"
-        }
-    ]
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Ahuja",
+      "email": "ahuja@gmail.com",
+      "userId": "1"
+    },
+    {
+      "name": "Pinki",
+      "email": "pinki@gmail.com",
+      "userId": "1",
+      "id": "40e0"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ravi Kant",
+      "email": "ravikant@gmail.com",
+      "password": "Ravi@123"
+    }
+  ]
 }
